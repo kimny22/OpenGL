@@ -1,0 +1,14 @@
+﻿  KNY.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\gl\gl.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\gl\gl.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\ajtwl\onedrive\문서\github\opengl\kny_graphics_project1\kny_graphics_project1\kny.cpp(128): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ajtwl\onedrive\문서\github\opengl\kny_graphics_project1\kny_graphics_project1\kny.cpp(129): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ajtwl\onedrive\문서\github\opengl\kny_graphics_project1\kny_graphics_project1\kny.cpp(147): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\ajtwl\onedrive\문서\github\opengl\kny_graphics_project1\kny_graphics_project1\kny.cpp(152): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\ajtwl\onedrive\문서\github\opengl\kny_graphics_project1\kny_graphics_project1\kny.cpp(153): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  glusupport.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\gl\gl.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\gl\gl.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  코드를 생성하고 있습니다...
+  kny_graphics_project1.vcxproj -> C:\Users\ajtwl\OneDrive\문서\GitHub\OpenGL\kny_graphics_project1\x64\Debug\kny_graphics_project1.exe
+  kny_graphics_project1.vcxproj -> C:\Users\ajtwl\OneDrive\문서\GitHub\OpenGL\kny_graphics_project1\x64\Debug\kny_graphics_project1.pdb (Partial PDB)
